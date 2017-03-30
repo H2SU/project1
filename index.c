@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int a;
+	int a,b;
 	
 	printf("SSS_Git_STUDY");
 	scanf("%d", &a);
